@@ -25,5 +25,8 @@
   "homepage": "https://github.com/anhartasman/node_basic_4_the_improved_workflow#readme",
   "devDependencies": {
     "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
   }
 }
