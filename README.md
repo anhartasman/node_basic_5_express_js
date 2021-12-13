@@ -101,3 +101,9 @@ menggunakan function helper
 ### Intro
 
 Memberikan css pada halaman
+
+## 75. Serving Files Statically
+
+### Intro
+
+Menyediakan file untuk bisa diakses secara publik
