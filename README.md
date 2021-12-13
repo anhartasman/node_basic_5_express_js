@@ -83,3 +83,9 @@ Membuat halaman HTML
 ### Intro
 
 Menampilkan halaman HTML
+
+## 71. Returning a 404 Page
+
+### Intro
+
+menampilkan halaman 404
