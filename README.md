@@ -33,3 +33,17 @@ Mempelejari cara kerja middleware
 ### Intro
 
 Menghandle banyak route
+
+## 64. Parsing Incoming Requests
+
+### Intro
+
+Mengelola request
+
+### Command
+
+```
+npm install --save body-parser
+```
+
+Menginstall body parser

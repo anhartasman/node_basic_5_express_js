@@ -1,16 +1,21 @@
 const express = require("express");
-
+const bodyParser = require("body-parser");
 const app = express();
 
-//untuk route dimulai dengan /add-product
+app.use(bodyParser.urlencoded({ extended: false }));
+
 app.use("/add-product", (req, res, next) => {
-  console.log("in another middleware!");
-  res.send('<h1>The "Add Product" Page</h1>');
+  res.send(
+    '<form action="/product" method="POST"><input type="text" name="title"><button type="submit">Add Product</button></form>'
+  );
 });
 
-//untuk route dimulai dengan /
+app.use("/product", (req, res, next) => {
+  console.log(req.body); //mendapatkan body dalam bentuk objek karena menggunakan body-parser
+  res.redirect("/");
+});
+
 app.use("/", (req, res, next) => {
-  console.log("in another middleware!");
   res.send("<h1>Hello from Express!</h1>");
 });
 
