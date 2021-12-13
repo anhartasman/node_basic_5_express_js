@@ -47,3 +47,9 @@ npm install --save body-parser
 ```
 
 Menginstall body parser
+
+## 65. Limiting Middleware Execution to POST Requests
+
+### Intro
+
+Membatasi middleware agar hanya melayani method POST
