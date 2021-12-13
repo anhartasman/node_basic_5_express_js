@@ -53,3 +53,9 @@ Menginstall body parser
 ### Intro
 
 Membatasi middleware agar hanya melayani method POST
+
+## 66. Using Express Router
+
+### Intro
+
+Menggunakan router yang disediakan express
