@@ -89,3 +89,9 @@ Menampilkan halaman HTML
 ### Intro
 
 menampilkan halaman 404
+
+## 73. Using a Helper Function for Navigation
+
+### Intro
+
+menggunakan function helper
