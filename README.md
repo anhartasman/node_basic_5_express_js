@@ -71,3 +71,9 @@ Menambahkan halaman error 404
 ### Intro
 
 Memfilter paths
+
+## 69. Creating HTML Pages
+
+### Intro
+
+Membuat halaman HTML
