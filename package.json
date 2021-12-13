@@ -1,0 +1,29 @@
+{
+  "name": "nodejs-complete-guide",
+  "version": "1.0.0",
+  "description": "Complete Node.js Guide",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js",
+    "start-server": "node app.js"
+  },
+  "author": "Maximilian Schwarzmüller",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anhartasman/node_basic_4_the_improved_workflow.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "guide"
+  ],
+  "bugs": {
+    "url": "https://github.com/anhartasman/node_basic_4_the_improved_workflow/issues"
+  },
+  "homepage": "https://github.com/anhartasman/node_basic_4_the_improved_workflow#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
