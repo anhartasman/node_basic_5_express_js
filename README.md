@@ -27,3 +27,9 @@ Menambahkan middleware
 ### Intro
 
 Mempelejari cara kerja middleware
+
+## 63. Handling Different Routes
+
+### Intro
+
+Menghandle banyak route
