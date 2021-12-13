@@ -22,10 +22,8 @@ Command diatas untuk menginstall express sebagai production dependency, yang art
 
 Menambahkan middleware
 
-### Command
+## 61. How Middleware Works
 
-```
-npm install --save express
-```
+### Intro
 
-Command diatas untuk menginstall express sebagai production dependency, yang artinya kita tetap membutuhkannya setelah aplikasi dpublish
+Mempelejari cara kerja middleware
