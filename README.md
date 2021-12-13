@@ -59,3 +59,9 @@ Membatasi middleware agar hanya melayani method POST
 ### Intro
 
 Menggunakan router yang disediakan express
+
+## 67. Adding a 404 Error Page
+
+### Intro
+
+Menambahkan halaman error 404
