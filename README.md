@@ -15,3 +15,17 @@ npm install --save express
 ```
 
 Command diatas untuk menginstall express sebagai production dependency, yang artinya kita tetap membutuhkannya setelah aplikasi dpublish
+
+## 60. Adding Middleware
+
+### Intro
+
+Menambahkan middleware
+
+### Command
+
+```
+npm install --save express
+```
+
+Command diatas untuk menginstall express sebagai production dependency, yang artinya kita tetap membutuhkannya setelah aplikasi dpublish
