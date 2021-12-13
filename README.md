@@ -95,3 +95,9 @@ menampilkan halaman 404
 ### Intro
 
 menggunakan function helper
+
+## 74. Styling our Pages
+
+### Intro
+
+Memberikan css pada halaman
